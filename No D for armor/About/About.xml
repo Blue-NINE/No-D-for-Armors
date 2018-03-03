@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>No dead man's apparel for Armors and helmets</name>
+    <author>Blue9</author>
+    <targetVersion>0.18.1722</targetVersion>
+    <description>Makes all armor like apparel to work like belts, they don't get the "D"
+	of dead man's apparel. Will work with modded stuff as long as they have ArmorMakeableBase 
+	or ArmorHelmetMakeableBase as ParentName in their def</description>
+	</ModMetaData>
